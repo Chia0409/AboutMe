@@ -16,7 +16,7 @@
 | :--- | :--- | :--- |
 | 商業分析與視覺化 | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | 星型/雪花型資料模型設計（Star/Snowflake Schema）、Power Query、DAX 、互動式儀表板 |
 | 資料庫與查詢 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)| 關聯式資料庫設計、CRUD 操作、資料清理與資料查詢 |
-| **資料處理與自動化** | ![Python Pandas](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | 自動化 ETL 流程、資料整合、商業邏輯腳本開發 |
+| 資料處理與自動化 | ![Python Pandas](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | 自動化 ETL 流程、資料整合、商業邏輯腳本開發 |
 ---
 
 ### 📌 專案 (Featured Projects)
